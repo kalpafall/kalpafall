@@ -96,6 +96,7 @@
 ### 📫 Me contacter
 
 <p>
+  <a href="https://www.linkedin.com/in/mariama-fall-54537b257"><img src="https://img.shields.io/badge/LinkedIn-Mariama%20FALL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/kalpafall"><img src="https://img.shields.io/badge/GitHub-kalpafall-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
