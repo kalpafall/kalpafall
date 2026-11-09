@@ -1,6 +1,10 @@
-<h1 align="center">Bonjour, moi c'est Mariama FALL 👋</h1>
-<h3 align="center">Data Engineer & Data Scientist en formation — je construis des pipelines de données et des applications de Machine Learning de bout en bout.</h3>
-<p align="center"><i>Aspiring Data Engineer · Data pipelines · Machine Learning · Big Data</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7928CA&height=220&section=header&text=Mariama%20FALL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%26%20Data%20Scientist%20en%20formation&descAlignY=58&descSize=18" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Bonjour%2C+moi+c'est+Mariama+FALL;Data+Engineer+en+formation;Pipelines+Spark+%C2%B7+Kafka+%C2%B7+Airflow+%C2%B7+dbt;Machine+Learning+%26+Streamlit;Ouverte+aux+opportunit%C3%A9s+!" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalpafall&label=Visites%20du%20profil&color=0e75b6&style=flat" alt="visites" />
@@ -77,6 +81,16 @@
   <img src="https://streak-stats.demolab.com?user=kalpafall&theme=tokyonight&hide_border=true&locale=fr" />
 </p>
 
+### 🐍 Mes contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalpafall/kalpafall/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalpafall/kalpafall/output/github-snake.svg" />
+    <img alt="Serpent qui mange mes contributions" src="https://raw.githubusercontent.com/kalpafall/kalpafall/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ### 📫 Me contacter
@@ -86,3 +100,7 @@
 </p>
 
 <p align="center"><i>« Les données ne valent que par ce qu'on en fait. »</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:0e75b6&height=120&section=footer&animation=twinkling" width="100%" />
+</p>
