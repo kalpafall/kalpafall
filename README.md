@@ -12,17 +12,17 @@
 
 ---
 
-### 🙋‍♀️ À propos de moi
+### À propos de moi
 
-- 🔧 Je conçois des **pipelines de données end-to-end** : ingestion (batch & streaming), transformation, orchestration et monitoring
-- 🤖 J'entraîne et je **déploie des modèles de Machine Learning** dans des applications web utilisables
-- 🐳 Je conteneurise mes projets avec **Docker** pour qu'ils tournent partout
-- 🌱 J'approfondis en ce moment : **Big Data (Spark, Kafka)**, **dbt** et **MLOps**
-- 🤝 Ouverte aux **stages, alternances et opportunités en Data Engineering / Data Science**
+- Je conçois des **pipelines de données end-to-end** : ingestion (batch & streaming), transformation, orchestration et monitoring
+- J'entraîne et je **déploie des modèles de Machine Learning** dans des applications web utilisables
+- Je conteneurise mes projets avec **Docker** pour qu'ils tournent partout
+- J'approfondis en ce moment : **Big Data (Spark, Kafka)**, **dbt** et **MLOps**
+- Ouverte aux **stages, alternances et opportunités en Data Engineering / Data Science**
 
 ---
 
-### 🛠️ Compétences techniques
+### Compétences techniques
 
 **Langages & données**
 <p>
@@ -64,24 +64,24 @@
 
 ---
 
-### 🚀 Projets phares
+### Projets phares
 
 | Projet | Description | Stack |
 |---|---|---|
-| 🔄 **[DataEngineerFlow360](https://github.com/kalpafall/DataEngineerFlow360)** | Pipeline de données end-to-end : ingestion batch & streaming, data lake (raw → processed → curated), data warehouse en star schema, 4 DAGs Airflow et monitoring | Kafka · PySpark · dbt · Airflow · Cassandra · Prometheus · Grafana · Docker |
-| 🤖 **[Devoir_ML](https://github.com/kalpafall/Devoir_ML)** | Application Streamlit qui déploie 4 modèles de ML (2 classifications, 2 régressions), avec prédiction unitaire par formulaire ou en lot par CSV | Python · scikit-learn · Pandas · Streamlit |
-| 👥 **[gestion-employe](https://github.com/kalpafall/gestion-employe)** | Application full-stack de gestion des employés, conteneurisée et déployée en mono-repo avec un pipeline CI/CD | FastAPI · SQLAlchemy · PostgreSQL · React · Docker · Jenkins |
-| 🔐 **[projet_api_rest](https://github.com/kalpafall/projet_api_rest)** | API REST avec authentification par jeton JWT et base PostgreSQL | Flask · JWT · PostgreSQL |
+| **[DataEngineerFlow360](https://github.com/kalpafall/DataEngineerFlow360)** | Pipeline de données end-to-end : ingestion batch & streaming, data lake (raw → processed → curated), data warehouse en star schema, 4 DAGs Airflow et monitoring | Kafka · PySpark · dbt · Airflow · Cassandra · Prometheus · Grafana · Docker |
+| **[Devoir_ML](https://github.com/kalpafall/Devoir_ML)** | Application Streamlit qui déploie 4 modèles de ML (2 classifications, 2 régressions), avec prédiction unitaire par formulaire ou en lot par CSV | Python · scikit-learn · Pandas · Streamlit |
+| **[gestion-employe](https://github.com/kalpafall/gestion-employe)** | Application full-stack de gestion des employés, conteneurisée et déployée en mono-repo avec un pipeline CI/CD | FastAPI · SQLAlchemy · PostgreSQL · React · Docker · Jenkins |
+| **[projet_api_rest](https://github.com/kalpafall/projet_api_rest)** | API REST avec authentification par jeton JWT et base PostgreSQL | Flask · JWT · PostgreSQL |
 
 ---
 
-### 📊 Statistiques GitHub
+### Statistiques GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kalpafall&theme=tokyonight&hide_border=true&locale=fr" />
 </p>
 
-### 🐍 Mes contributions
+### Mes contributions
 
 <p align="center">
   <picture>
@@ -93,7 +93,7 @@
 
 ---
 
-### 📫 Me contacter
+### Me contacter
 
 <p>
   <a href="https://www.linkedin.com/in/mariama-fall-54537b257"><img src="https://img.shields.io/badge/LinkedIn-Mariama%20FALL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
